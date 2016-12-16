@@ -1,0 +1,12 @@
+INFO    2016-07-19 14:11:55,590 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-07-19 14:12:28,175 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111 logged in this application
+INFO    2016-07-19 14:12:47,436 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO1111 in clinic location DDO
+INFO    2016-07-19 14:13:08,389 [AWT-EventQueue-0] dsmssystem  - The manager with managerID of DDO1111 in clinic location DDO transfered the record with the ID of DR10000 to the server in MTL
+INFO    2016-07-19 14:15:57,263 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111 logged in this application
+INFO    2016-07-19 14:16:00,452 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-07-19 14:16:07,496 [AWT-EventQueue-0] dsmssystem  - The manager with managerID of MTL1111 in clinic location MTL transfered the record with the ID of DR10000 to the server in LVL
+INFO    2016-07-19 14:16:07,497 [AWT-EventQueue-0] dsmssystem  - New Record is created by manager with managerID MTL1111 in clinic location MTL1111
+INFO    2016-07-19 14:16:49,046 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111 logged in this application
+INFO    2016-07-19 14:16:51,564 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-07-19 14:16:57,900 [AWT-EventQueue-0] dsmssystem  - The manager with managerID of LVL1111 in clinic location LVL transfered the record with the ID of DR10000 to the server in DDO
+INFO    2016-07-19 14:16:57,901 [AWT-EventQueue-0] dsmssystem  - New Record is created by manager with managerID LVL1111 in clinic location DDO

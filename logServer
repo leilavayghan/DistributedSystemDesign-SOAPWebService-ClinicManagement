@@ -1,0 +1,15 @@
+INFO    2016-07-19 14:11:38,546 [main] server  - WSDL Created for Montreal at port 8070
+INFO    2016-07-19 14:11:38,581 [main] server  - WSDL Created for Dollard-Des-Ormeaux at port 8080
+INFO    2016-07-19 14:11:38,614 [main] server  - WSDL Created for Laval at port 8090
+INFO    2016-07-19 14:12:47,436 [AWT-EventQueue-0] server  - Create Doctor Operation is Invoked at server of DDO by manager with manager-idDDO1111
+INFO    2016-07-19 14:13:08,390 [AWT-EventQueue-0] server  - Transfer Record Operation is Invoked at server of DDOby manager with manager-idDDO1111
+INFO    2016-07-19 14:15:49,385 [main] server  - WSDL Created for Montreal at port 8070
+INFO    2016-07-19 14:15:49,417 [main] server  - WSDL Created for Dollard-Des-Ormeaux at port 8080
+INFO    2016-07-19 14:15:49,446 [main] server  - WSDL Created for Laval at port 8090
+INFO    2016-07-19 14:16:00,451 [AWT-EventQueue-0] server  - Create Doctor Operation is Invoked at server of MTL by manager with manager-idMTL1111
+INFO    2016-07-19 14:16:07,497 [AWT-EventQueue-0] server  - Transfer Record Operation is Invoked at server of MTL by manager with manager-id MTL1111
+INFO    2016-07-19 14:16:43,093 [main] server  - WSDL Created for Montreal at port 8070
+INFO    2016-07-19 14:16:43,125 [main] server  - WSDL Created for Dollard-Des-Ormeaux at port 8080
+INFO    2016-07-19 14:16:43,156 [main] server  - WSDL Created for Laval at port 8090
+INFO    2016-07-19 14:16:51,564 [AWT-EventQueue-0] server  - Create Doctor Operation is Invoked at server of LVL by manager with manager-idLVL1111
+INFO    2016-07-19 14:16:57,901 [AWT-EventQueue-0] server  - Transfer Record Operation is Invoked at server of LVL by manager with manager-id LVL1111
